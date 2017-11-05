@@ -3,11 +3,10 @@ package Project2;
 public class Project2 {
 
 	public static void main(String[] args) {
-	
-		for(int i = 0; i<=5;i++){
-		System.out.println("Rimy")
-		
-		}
+		//https://github.com/RimyAhmed/Rimy02.git
+		System.out.println("Dhaka");
+		System.out.println("Sylhet");
+
 	}
 
 }
