@@ -6,6 +6,7 @@ public class Project2 {
 		//https://github.com/RimyAhmed/Rimy02.git
 		System.out.println("Dhaka");
 		System.out.println("Sylhet");
+		System.out.println("This is my Second Project");
 
 	}
 
